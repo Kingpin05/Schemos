@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+requests
+beautifulsoup4
+scrapy
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+cross-encoder
+python-dotenv
+pytest

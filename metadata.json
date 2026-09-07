@@ -1,0 +1,6 @@
+{
+  "name": "SCHEMOS",
+  "description": "Government Scheme Eligibility System with hybrid rule filtering, semantic reranking, and source-grounded citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
